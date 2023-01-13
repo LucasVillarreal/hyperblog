@@ -1,5 +1,5 @@
 Hola, mi nombre es Lucas Villarreal
 
-Tomando el curso de Git y GitHub de Platzi
+Estoy volviendo a tomar el curso de Git y GitHub de Platzi
 
 Saludos!
